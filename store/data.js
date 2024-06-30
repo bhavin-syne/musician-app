@@ -1,5 +1,10 @@
 // A collection of musicians where the key is the unique id
 module.exports = {
+  newsinger: {
+    firstName: 'Mohini',
+    lastName: 'Mohite',
+    genre: 'JAZZ',
+  },
   singer: {
     firstName: 'Bhavin',
     lastName: 'Hariyani',
